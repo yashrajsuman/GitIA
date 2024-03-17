@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+<<<<<:wq
+<< Updated upstream
+>>>>>>> aab45f6 (ash)
 Feaature Branch changed
 =======
 chnged
