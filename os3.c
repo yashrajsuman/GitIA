@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>yash
 #include<stdlib.h>
 #include<pthread.h>
 #include<semaphore.h>
