@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Feaature Branch changed
+=======
+chnged
+>>>>>>> Stashed changes
